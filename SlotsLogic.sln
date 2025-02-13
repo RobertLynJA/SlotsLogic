@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlotsLogic", "SlotsLogic\SlotsLogic.csproj", "{1570DE5A-CB7B-4358-AEBA-E06E991DE647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlotsGame", "SlotsGame\SlotsGame.csproj", "{C5B74E36-2AFB-493A-96E8-0C2FBCF4CC61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlotsGame.Test", "SlotsGame.Test\SlotsGame.Test.csproj", "{6B16D27A-94A6-40CD-856F-D0EA0F17EFC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1570DE5A-CB7B-4358-AEBA-E06E991DE647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1570DE5A-CB7B-4358-AEBA-E06E991DE647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1570DE5A-CB7B-4358-AEBA-E06E991DE647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1570DE5A-CB7B-4358-AEBA-E06E991DE647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5B74E36-2AFB-493A-96E8-0C2FBCF4CC61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B74E36-2AFB-493A-96E8-0C2FBCF4CC61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B74E36-2AFB-493A-96E8-0C2FBCF4CC61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B74E36-2AFB-493A-96E8-0C2FBCF4CC61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B16D27A-94A6-40CD-856F-D0EA0F17EFC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B16D27A-94A6-40CD-856F-D0EA0F17EFC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B16D27A-94A6-40CD-856F-D0EA0F17EFC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B16D27A-94A6-40CD-856F-D0EA0F17EFC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
